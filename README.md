@@ -1,5 +1,5 @@
 # Starting-with-Windows-11
-Installation guide on how to use and get started with Windows 11 without using a single dollar
+Installation guide on how to use and get started with Windows 11
 # Installation
 - We will be using a VM (VMware Workstation Player 16)  and to start hosting Windows 11 on our system
 - We will be using ISO files from Microsoft to run Windows 10 on our Virtual Machine
