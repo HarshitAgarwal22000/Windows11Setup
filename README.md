@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="XkSic_CmMI8nDPOgX8KWHWJeiZZwt1cl64hCd9jDMtA" />
 # Starting-with-Windows-11
 Installation guide on how to use and get started with Windows 11
 # Installation
